@@ -5,17 +5,13 @@ coghealthqol
 
 This repository contains the data and code for our paper:
 
-> Authors, (YYYY). *Title of paper*. Name of journal/book <https://doi.org/xxx/xxx>
-
-Our pre-print is online here:
-
-> Authors, (YYYY). *Title of paper*. Name of journal/book, Accessed 31 Jul 2018. Online at <https://doi.org/xxx/xxx>
+> Ryan, Joan M. and Charles C. Lanfear, (2018). *Perceived Cognitive Health and Quality of Life*. In Preparation
 
 ### How to cite
 
 Please cite this compendium as:
 
-> Authors, (2018). *Compendium of R code and data for 'Title of paper'*. Accessed 31 Jul 2018. Online at <https://doi.org/xxx/xxx>
+> Ryan, Joan M. and Charles C. Lanfear, (2018). *Compendium of R code and data for 'Perceived Cognitive Health and Quality of Life'*. Accessed 01 Aug 2018.
 
 ### How to download or install
 
